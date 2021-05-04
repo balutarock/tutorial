@@ -1,3 +1,2 @@
-Hi,
-what's your name,
+what's your name
 How are you.
